@@ -4,7 +4,16 @@
     "u1": "Tech",
     "u2": "Apple / Laptops",
     "title": "Why Choose MacBook?",
-    "points": ["Premium Design", "M-Series Chips", "macOS security"],
-    "content": "MacBook laptops are premium devices developed by Apple, designed for high performance, reliability, and user experience.|They run on macOS, which is known for its smooth interface, strong security, and optimized performance.|Modern MacBooks use Apple’s own silicon chips like M1, M2, and M3, which deliver fast speed while consuming less power."
+    "points": [
+      "Premium Design",
+      "M-Series Chips",
+      "macOS security"
+    ],
+    "content": "MacBook laptops are premium devices developed by Apple, designed for high performance, reliability, and user experience.|They run on macOS, which is known for its smooth interface, strong security, and optimized performance.|Modern MacBooks use Apple’s own silicon chips like M1, M2, and M3, which deliver fast speed while consuming less power.|Whether you are a student, creator, or professional, the integration between hardware and software remains unmatched.",
+    "images": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1611186871348-b1ec696e523f?q=80&w=1000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=1000&auto=format&fit=crop"
+    ]
   }
 ]
