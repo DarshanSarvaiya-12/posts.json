@@ -14,5 +14,20 @@
     "title": "Lowering Your Interest",
     "points": ["Compare banks", "Credit score", "Negotiation", "Fees"],
     "content": "Always check the processing fees before signing loan documents."
-  }
+  },
+  {
+  "id": 3,
+  "u1": "Technology",
+  "u2": "Laptops",
+  "title": "MacBook Laptops",
+  "points": [
+    "High-performance Apple silicon chips (M1, M2, M3)",
+    "Premium build quality with sleek aluminum design",
+    "Exceptional battery life for long working hours",
+    "Smooth macOS experience with strong security",
+    "Perfect integration with Apple ecosystem (iPhone, iPad, AirPods)",
+    "Best for coding, editing, and professional work"
+  ],
+  "content": "MacBook laptops are premium devices developed by Apple, designed for high performance, reliability, and user experience. They run on macOS, which is known for its smooth interface, strong security, and optimized performance. Modern MacBooks use Apple’s own silicon chips like M1, M2, and M3, which deliver fast speed while consuming less power. This makes them highly efficient for tasks like programming, video editing, graphic design, and business work.\n\nOne of the biggest advantages of MacBooks is their build quality. They are made with a solid aluminum body, giving a premium feel and long durability. The display quality is also excellent, with sharp resolution and accurate colors, which is very useful for creators and designers.\n\nBattery life is another strong point. MacBooks can easily last a full day on a single charge, making them ideal for students and professionals who work long hours without access to charging.\n\nMacBooks also work seamlessly with other Apple devices. Features like AirDrop, Handoff, and iCloud allow easy file sharing and continuity between iPhone, iPad, and MacBook. This ecosystem creates a smooth and connected experience.\n\nHowever, MacBooks are expensive compared to other laptops, and upgrading hardware can be costly. Despite this, they are considered a long-term investment because of their performance, durability, and resale value.\n\nPro Insight: If you are planning to learn coding, UI/UX design, or build software products, a MacBook can be a powerful tool because many developers prefer macOS for its stability and Unix-based environment."
+}
 ]
