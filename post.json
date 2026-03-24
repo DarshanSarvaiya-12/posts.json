@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "u1": "Stock Market",
+    "u2": "5 min read",
+    "title": "Understanding Bull vs Bear Markets",
+    "points": [
+      "Bull markets represent rising prices.",
+      "Bear markets signify a 20% drop from recent highs.",
+      "Investor psychology drives these cycles."
+    ],
+    "content": "The stock market is a complex ecosystem of buyers and sellers. | When confidence is high, we enter a Bull phase where prices trend upward. | This is often driven by strong economic data and high employment. | Conversely, a Bear market creates a cycle of fear and selling. | Long-term investors often see Bear markets as buying opportunities.",
+    "images": [
+      "https://example.com/image1.jpg",
+      "https://example.com/image2.jpg",
+      "https://example.com/image3.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "u1": "Tech",
+    "u2": "New Update",
+    "title": "The Rise of Artificial Intelligence",
+    "points": [
+      "AI is transforming the workforce.",
+      "Machine learning is a subset of AI.",
+      "Ethics in AI remains a hot topic."
+    ],
+    "content": "AI is no longer just a sci-fi concept. | It is integrated into our phones, cars, and homes. | Companies are investing billions into generative models. | This shift requires new skills for the modern worker.",
+    "images": []
+  }
+]
